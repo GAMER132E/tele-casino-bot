@@ -5,7 +5,7 @@
 In October 2020 Telegram team released [yet another update](https://telegram.org/blog/pinned-messages-locations-playlists) 
 with slot machine dice. Here it is:
 
-![slot machine dice](repo_images/slot_machine.png)
+![slot machine dice](https://github.com/sincryptshark/tele-casino-bot/raw/main/tele-casino-bot/repo_images/slot_machine.png)
 
 According to [Dice type documentation](https://core.telegram.org/bots/api#dice) in Bot API, slot machine 
 emits values 1 to 64. In [dice_check.py](bot/dice_check.py) file you can find all the logic regarding 
