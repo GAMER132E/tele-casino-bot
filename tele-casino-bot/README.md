@@ -1,6 +1,4 @@
-[<img src="https://img.shields.io/badge/Telegram-%40DifichentoBot-blue">](https://t.me/DifichentoBot) (Ru)
-
-> 🇷🇺 README на русском доступен [здесь](README.ru.md)
+[<img src="https://img.shields.io/badge/Telegram-%40ClassyCasinoBot-blue">](https://t.me/ClassyCasinoBot) (Ru)
 
 # Telegram Virtual Casino
 
@@ -11,7 +9,7 @@ with slot machine dice. Here it is:
 
 According to [Dice type documentation](https://core.telegram.org/bots/api#dice) in Bot API, slot machine 
 emits values 1 to 64. In [dice_check.py](bot/dice_check.py) file you can find all the logic regarding 
-matching dice integer value with visual three-icons representation. There is also a test bot [@DifichentoBot](https://t.me/difichentobot) 
+matching dice integer value with visual three-icons representation. There is also a test bot [@ClassyCasinoBot](https://t.me/ClassyCasinoBot) 
 in Russian to test how it works.  
 Dice are generated on Telegram server-side, you your bot cannot affect the result.
 
@@ -36,5 +34,5 @@ Alternative way: you can use Systemd services, there is also an [example](casino
 
 ## Credits to
 
-* [@Tishka17](https://t.me/Tishka17) for initial inspiration
-* [@svinerus](https://t.me/svinerus) for compact dice combination check (f6f42a841d3c1778f0e32)
+* [@SHARK](https://t.me/menasting) for initial inspiration
+* [@HVGR](https://t.me/hvgrg) for compact dice combination check (f6f42a841d3c1778f0e32)
