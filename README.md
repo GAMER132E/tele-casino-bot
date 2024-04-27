@@ -2,8 +2,6 @@
 
 # Telegram Virtual Casino
 
-In October 2020 Telegram team released [yet another update](https://telegram.org/blog/pinned-messages-locations-playlists) 
-with slot machine dice. Here it is:
 
 ![slot machine dice](https://github.com/sincryptshark/tele-casino-bot/raw/main/tele-casino-bot/repo_images/slot_machine.png)
 
